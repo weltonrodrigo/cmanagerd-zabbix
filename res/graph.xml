@@ -13,23 +13,6 @@
           <percent_left>0.0000</percent_left>
           <percent_right>0.0000</percent_right>
           <graph_elements>
-            <graph_element item="Template_Openfire_CManagerd:cmanagerd.clientesporrede[172.17.27.0/24]">
-              <drawtype>1</drawtype>
-              <sortorder>0</sortorder>
-              <color>009900</color>
-              <yaxisside>0</yaxisside>
-              <calc_fnc>2</calc_fnc>
-              <type>0</type>
-              <periods_cnt>5</periods_cnt>
-            </graph_element>
-            <graph_element item="Template_Openfire_CManagerd:cmanagerd.clientesporrede[172.17.38.0/24]">
-              <drawtype>1</drawtype>
-              <sortorder>1</sortorder>
-              <color>00AAAA</color>
-              <yaxisside>0</yaxisside>
-              <calc_fnc>2</calc_fnc>
-              <type>0</type>
-              <periods_cnt>5</periods_cnt>
-            </graph_element>
+	  %graficos%
           </graph_elements>
         </graph>
